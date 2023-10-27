@@ -41,9 +41,17 @@
     },
     {
       "version": "2.5.1",
-      "date": "????-??-??",
+      "date": "2023-10-25",
       "changes": [
-        "No changes for now"
+        "+Change the "_" to "-" in commands changed_addon,changed_addon_admin",
+        "+Make the keybinds use none by default",
+        "+Made some QFL like swing the arm when a empty spray is used",
+        "+Change the Experiment 009 music Theme",
+        "+Fix Crash Issues.",
+
+        "Other Changes",
+        "+Change Some Things in Api",
+        "+Now SetTransfurProgress Commands will only change the Progress of TransfurProgress and not the type"
       ]
     },
     {
