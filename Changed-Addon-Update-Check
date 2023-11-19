@@ -1,7 +1,7 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/changed-addon-plus",
   "promos": {
-    "1.18.2-alpha": "2.5.2",
+    "1.18.2-beta": "2.5.2",
     "1.18.2-latest": "2.5.1",
     "1.18.2-recommended": "2.5"
   },
@@ -55,9 +55,39 @@
     },
     {
       "version": "2.5.2",
-      "date": "????-??-??",
+      "date": "2023-11-18",
       "changes": [
-        "No changes for now"
+        "Stable Transfurs",
+        "Now, to grab an entity, you need to look at it",
+        "Fix almost all sound issues with the Grab Feature",
+        "Change a bit the Experiment 009 laboratories",
+        "Change a bit the Experiment 009 structure loot",
+        "Change how the structures are placed (now works with /locate)",
+        "Change a few overlay textures",
+        "New BeeHive Blocks Recipes using honey comb",
+        "Change some GUI",
+        "Illustrated Items now indicate where the recipe is",
+        "Now the gamerule DoLatexInfection has a cooldown before adding a Latex Infection",
+        "Change Some Texts",
+        "Latex Totem now works for organic latex entities",
+        "Fix Bugs",
+        "",
+        "BugsFixs",
+        "",
+        "Latex Totem Not Showing the totem animation when right-clicking on an entity event happening",
+        "Fix The Labs structures being so easy to find",
+        "",
+        "Stable Transfurs",
+        "Don't Have Crafts To Be Fair",
+        "",
+        "Organic Dark Latex Dragon",
+        "Gas Wolf",
+        "Crystal Wolfs (the horned too)",
+        "Organic Light Latex Wolf",
+        "Sniper Dog",
+        "Puro Kind (Dark Latex Wolf Male, Can't transfur and 8 extra hp)",
+        "Light Latex (Light Latex Wolf Male, Can't transfur and 6 of extra hp)",
+        "Snow Leopard Male (Snow Leopard Male, Can't transfur and 6 of extra hp)"
       ]
     }
   ]
