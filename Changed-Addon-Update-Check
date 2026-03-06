@@ -1,11 +1,16 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/changed-addon-plus",
+  "1.20.1": {
+    "2.7.3": "## Additions/Improvements\n\n* **Added full VR compatibility (Vivecraft).**\n* Expanded the **Favor System** to support many more tameable Latex entities.\n* Added Support for REI [Roughly Enough Items] support\n\n## Tweaks/Code Logic Revamp\n\n* **Dark Latex Wolf Pup behavior adjusted:**\n  * Now prioritizes being tamed before attempting to gain additional growth progress.\n  * Growth progress will only increase if the pup is already tamed.\n\n## Fixes\n\n* Fixed **Carry Ability** behaving erratically when grabbing the carried entity.\n* Fixed a Facility room with a missing glue block that could cause the entire facility to crash.\n* Fixed can blocks not droping the right amount of cans after broken.\n* Fixed alpha atributes not being fully cleaned when untransfuring.",
+    "3.0.0": "Nothing",
+    "": "https://modrinth.com/mod/changed-addon-plus/changelog"
+  },
   "promos": {
     "1.18.2-beta": "2.8",
     "1.18.2-latest": "2.7.2",
     "1.18.2-recommended": "2.7.2",
     "1.20.1-beta": "3.0.0",
     "1.20.1-latest": "2.7.2",
-    "1.20.1-recommended": "2.7.2",
+    "1.20.1-recommended": "2.7.2"
   }
 }
